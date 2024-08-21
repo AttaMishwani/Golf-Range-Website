@@ -1,4 +1,4 @@
-let nav = document.getElementById("nav");
+/*let nav = document.getElementById("nav");
 let cursor = document.querySelector("#cursor");
 let cursorCircle = document.querySelector("#cursor-circle");
 let dot1 = document.querySelector("#fd-dt-1");
@@ -193,4 +193,4 @@ toggleBtn.addEventListener("click",function(){
 
 closeBtn.addEventListener("click",function(){
     menu.classList.remove("active");
-})
+})*/
